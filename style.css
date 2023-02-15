@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 29px;
+    max-width: 800px;
+    width: calc(100%-20px);
+}
+
+.card {
+    background-color:antiquewhite;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    transition: 500ms;
+    text-align: center;
+}
+
+.card:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: 500ms;
+}
+
+.card img:hover {
+    width: 300px;
+    height: 300px;
+}
