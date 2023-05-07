@@ -1,8 +1,7 @@
 {
-    "URLs" : [
+    "URLS" : [
         "https://www.nyip.edu/images/cms/photo-articles/the-best-place-to-focus-in-a-landscape.jpg",
         "https://cdn.mos.cms.futurecdn.net/fs5rJxVnkbrumyJyfQ8tQg-1200-80.jpg",
-        "www.travelandleisure.com/thmb/wsA6EXFuYkqtuJGLbQWw05-cwPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lake-como-MOSTBEAUTIFUL0921-cb08f3beff1041e4beefc67b5e956b23.jpg",
         "https://travellersworldwide.com/wp-content/uploads/2022/12/Shutterstock_1766609975.jpg.webp",
         "https://hips.hearstapps.com/hmg-prod/images/view-on-napali-coast-on-kauai-island-on-hawaii-royalty-free-image-1658514185.jpg",
         "https://nationalparks-15bc7.kxcdn.com/images/parks/serengeti/Serengeti%20National%20Park%20sunset%20with%20acacia%20treesjpg.jpg",
@@ -12,9 +11,24 @@
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/5c/38/15/torres-del-paine-national.jpg?w=1200&h=1200&s=1",
         "https://good-nature-blog-uploads.s3.amazonaws.com/uploads/2022/05/high-in-the-Monteverde-Clound-forest.jpg",
         "https://www.annees-de-pelerinage.com/wp-content/uploads/2019/06/bastei-early-morning.jpg",
-        "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2019/07/mt-fuji-kawaguchiko-iStock-881331810.jpg",
         "https://www.tripsavvy.com/thmb/aGj-k_kdDQeuUbnOsll11Fu609w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-646927586-5af207593037130036dbf349.jpg",
         "https://www.travelandleisure.com/thmb/ISDM_sDW3_0NSMJTZ3jgXjpRgsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/zermatt-switzerland-aerial_SKITOWN0123-0df880426acd494c9d8791be79b07494.jpg",
         "https://www.erikastravels.com/wp-content/uploads/2020/07/deer-in-Olympic-NP.jpg"
+    ],
+    "DESCRIPTIONS" : [
+        "N/A",
+        "N/A",
+        "N/A",
+        "Kauai, Hawaii",
+        "Serengeti National Park, Tanzania",
+        "Mount Korab, Albania/West Macedonia",
+        "Laguna Sucia, Argentina",
+        "N/A",
+        "Torres Del Paine National Park, Chile",
+        "Monteverde Cloud Forest, Monteverde",
+        "Bastei Bridge, Germany",
+        "N/A",
+        "Zermatt, Switzerland",
+        "Olympic National Park, Washingon, USA"
     ]
 }
