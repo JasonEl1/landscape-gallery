@@ -33,7 +33,7 @@ body {
     object-fit: cover;
     display: block;
     position: absolute;
-    top: -6.4%;
+    top: -16px;
     opacity: 0.0;
     transition: opacity 500ms;
     border-radius: 10px;

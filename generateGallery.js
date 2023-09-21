@@ -33,5 +33,6 @@ let info;
 
             document.getElementById("container").appendChild(card);
             count++;
+            desc.addEventListener("click", function () { window.open(img.src); });
         }
     });
